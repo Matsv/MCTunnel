@@ -1,0 +1,8 @@
+{
+  "host": "test.matsv.nl",
+  "listenIp":"0.0.0.0",
+  "listenPort":"25565",
+  "allowed_ips":[
+    "127.0.0.1"
+  ]
+}

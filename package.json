@@ -1,0 +1,12 @@
+{
+  "name": "mctunnel",
+  "version": "1.0.0",
+  "description": "Join Minecraft servers ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node mctunnel.js"
+  },
+  "author": "Matsv",
+  "license": "GPL-3.0"
+}
