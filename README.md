@@ -6,15 +6,6 @@ MCTunnel is a project that allows you to join Minecraft servers tunneled through
 I created this as personal project to learn JavaScript/Node.JS. The code won't be great, and I probably didn't follow any file naming / project structure rules by looking at other Node.JS projects. 
 Every suggestion / PR to improve is welcome.
 
-```flow
-st=>start: Your Minecraft client
-e=>end: The remote Minecraft server
-op=>operation: Tunnel server
-
-st->op->cond
-op->e
-```
-
 Running
 -------------
 **Requirements**:  Node.JS, knowledge how to setup a DNS wildcard.
