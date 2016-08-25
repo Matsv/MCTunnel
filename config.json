@@ -1,5 +1,5 @@
 {
-  "host": "test.matsv.nl",
+  "host": "your_wildcard_domain",
   "listenIp":"0.0.0.0",
   "listenPort":"25565",
   "allowed_ips":[
